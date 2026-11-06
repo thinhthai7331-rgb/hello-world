@@ -32,4 +32,8 @@ Tạo issue trong tab **Issues** hoặc nhắn trực tiếp qua tài khoản @t
 
 ## Cập nhật trực tiếp từ máy tính
 
+## Cập nhật từ GitHub Desktop
+
+## Thử nghiệm tính năng Pull Request
+
 ## Trải nghiệm GitHub CLI
