@@ -27,3 +27,5 @@ Dự án đầu tiên giúp làm quen và thực hành các thao tác quản lý
 
 ## Liên hệ
 Tạo issue trong tab **Issues** hoặc nhắn trực tiếp qua tài khoản @thinhthai7331-rgb.
+
+![Mô tả ảnh](anh/hinh-nen-ronaldo-1.jpg)
