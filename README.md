@@ -1,4 +1,5 @@
 # hello-world
+## Giới thiệu dự án
 
 Dự án đầu tiên giúp làm quen và thực hành các thao tác quản lý mã nguồn cơ bản trên GitHub.
 
